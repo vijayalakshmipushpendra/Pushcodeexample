@@ -1,0 +1,5 @@
+#exculding below files
+
+*.class
+*.settings
+*.project
